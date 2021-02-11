@@ -11,8 +11,20 @@
         "alternatives": [
           "Petit Gateau",
           "Mousse de limão com MUITO açucar",
-          "Pão de óleo com peito de peru",
+          "Pão de queijo com peito de peru",
           "Doce de abacaxi fervendo"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Qual ex-funcionário da Getway faz réplicas do boneco do Chucky?",
+        "description": "Das antigas",
+        "answer": 2,
+        "alternatives": [
+           "Eai Beleza",
+           "Lucas Herrera",
+           "Fabricio da Carpa",
+           "Roni barbeiro"
         ]
       },
       {
@@ -25,6 +37,114 @@
            "Bruxinha",
            "Cristiana",
            "Keomas"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Quem é o pai do filho do Herrera?",
+        "description": "Tá ficando mais tenso",
+        "answer": 3,
+        "alternatives": [
+           "Lucas Herrera",
+           "Flávio",
+           "Dogekill666",
+           "Todas alternativas"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Na frase 'Me desculpe _____, mas o(a) _____ é a preferência nacional!', quem são as pessoas referidas?",
+        "description": "Tensão no ar",
+        "answer": 2,
+        "alternatives": [
+           "Carlão e Marília",
+           "Ederaldo e Pedro",
+           "Regina e Taime",
+           "Cristiana e Keomas"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Do que se alimenta e quantos anos tem Fábio Comuna?",
+        "description": "Lula livre",
+        "answer": 3,
+        "alternatives": [
+           "Semem de traveco e 42",
+           "Vegetais e 14",
+           "Discursos do Lula e 122",
+           "Raiva, ódio e rancor do Carlos por ele, 490"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Qual a marca de cigarro utilizada para a culinária e consumo próprio da Fátima?",
+        "description": "Bituqueira",
+        "answer": 0,
+        "alternatives": [
+           "Derby azul",
+           "Hollywood",
+           "Eight",
+           "Marlboro blue ice"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Quantas vezes o Wender visita o depto. banheiro por dia?",
+        "description": "Cuidado com a resposta",
+        "answer": 3,
+        "alternatives": [
+           "44",
+           "12",
+           "17",
+           "1"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "No episódio 'Desmaio da Roza', quem o ambicioso abanou?",
+        "description": "Memorável",
+        "answer": 1,
+        "alternatives": [
+           "Roza",
+           "Ederaldo",
+           "Pedro",
+           "Regina"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Quem foi o melhor manobrista da Getway?",
+        "description": "Só camisa 10 do automobilismo",
+        "answer": 3,
+        "alternatives": [
+           "Christian",
+           "Epifânio",
+           "Alessandra",
+           "Cláudia"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Qual foi o maior talento desperdiçado pela Getway?",
+        "description": "Só tristeza e arrependimento",
+        "answer": 0,
+        "alternatives": [
+           "Eai Beleza",
+           "Thalitinha (menina do glote)",
+           "Breno beijador",
+           "Diego boca torta"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Segundo Fábio Comuna, o que deve acontecer com as pessoas que frequentam igrejas?",
+        "description": "#ForaBozo",
+        "answer": 3,
+        "alternatives": [
+           "Conscientizá-las que igreja e política não se misturam",
+           "Infiltrar membros da CUT/MST para convencê-las",
+           "Invadir carreatas da marcha pra JC!",
+           "Exterminar todos os evangélicos do Brasil e fundar uma nova nação (bolsonaro feelings)"
         ]
       }
     ],

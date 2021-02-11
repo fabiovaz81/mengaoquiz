@@ -31,7 +31,7 @@ function ResultWidget({ results }) {
 
           {results.filter((x) => x).length}
 
-          {' '}
+          {' '} 
           perguntas
         </p>
         <ul>
@@ -42,7 +42,7 @@ function ResultWidget({ results }) {
               :
               {' '}
               {result === true
-                ? 'Acertou' : 'Errow'}
+                ? 'Acertou' : 'Errou'}
             </li>
           ))}
 
@@ -148,8 +148,8 @@ function QuestionWidget({
             Confirmar
           </Button>
 
-          {isQuestionSubmited && isCorrect && <p>Você acertou!</p>}
-          {isQuestionSubmited && !isCorrect && <p>Você errou!</p>}
+          {isQuestionSubmited && isCorrect && <p>Acerto, mizeravi!</p>}
+          {isQuestionSubmited && !isCorrect && <p>EROUUUUUUU!</p>}
         </AlternativeForm>
       </Widget.Content>
     </Widget>
